@@ -8,5 +8,18 @@
 		"tags": [
 			"教程"
 		]
+	},
+	{
+		"name": "ABCompoTool",
+		"year": 2026,
+		"image": "https://github.com/Summorr/ABCompoTool/raw/main/images/icon-2.png",
+		"url": "https://github.com/Summorr/ABCompoTool",
+		"description": "个人借助AI微小帮助利用Godot开发的一个用于拼接愤怒的小鸟Composprites贴图的小工具",
+		"tags": [
+			"AngryBirds",
+			"Composprite",
+			"Godot"
+		],
+		"github": "https://github.com/Summorr/ABCompoTool"
 	}
 ]
