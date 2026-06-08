@@ -38,11 +38,15 @@
 			"url": ""
 		},
 		{
-			"id": "url-1780935664511",
+			"id": "url-1780935726217",
+			"url": "https://img.paulzzh.com/touhou/random"
+		},
+		{
+			"id": "url-1780935730303",
 			"url": "https://img.paulzzh.com/touhou/random"
 		}
 	],
-	"currentBackgroundImageId": "url-1780935664511",
+	"currentBackgroundImageId": "url-1780935726217",
 	"socialButtons": [
 		{
 			"id": "github",
@@ -59,7 +63,7 @@
 			"order": 1
 		}
 	],
-	"clockShowSeconds": false,
+	"clockShowSeconds": true,
 	"summaryInContent": false,
 	"isCachePem": false,
 	"hideEditButton": false,
