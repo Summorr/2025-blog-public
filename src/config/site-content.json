@@ -36,9 +36,13 @@
 		{
 			"id": "",
 			"url": ""
+		},
+		{
+			"id": "url-1780935664511",
+			"url": "https://img.paulzzh.com/touhou/random"
 		}
 	],
-	"currentBackgroundImageId": "",
+	"currentBackgroundImageId": "url-1780935664511",
 	"socialButtons": [
 		{
 			"id": "github",
